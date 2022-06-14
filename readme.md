@@ -1,15 +1,15 @@
-    #Sample Query
+# Sample Query
 
   
-    ## Query
+## Query
 
     <p align="center">
-    <img src=""  alt="Observer">
+    <img src="https://raw.githubusercontent.com/SouL-H/Go-GraphQL/main/img/query.png"  alt="Observer">
 
     </p>
 
-    ## Response
+## Response
      <p align="center">
-    <img src=""  alt="Observer">
+    <img src="https://raw.githubusercontent.com/SouL-H/Go-GraphQL/main/img/response.png"  alt="Observer">
 
     </p>
