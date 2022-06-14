@@ -2,14 +2,17 @@
 
   
 ## Query
+#
 
-    <p align="center">
-    <img src="https://raw.githubusercontent.com/SouL-H/Go-GraphQL/main/img/query.png"  alt="Observer">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SouL-H/Go-GraphQL/main/img/query.png"  style="width:200px;" alt="Observer">
 
-    </p>
+</p>
 
 ## Response
-     <p align="center">
-    <img src="https://raw.githubusercontent.com/SouL-H/Go-GraphQL/main/img/response.png"  alt="Observer">
+#
 
-    </p>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/SouL-H/Go-GraphQL/main/img/response.png"  style="width:430;"alt="Observer">
+
+</p>
